@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahdiEhteshami
 - 👀 I’m interested in resolving new challanges in my work. I love problems
 - 🌱 I’m currently learning for developing
-- 💞️ I’m looking to collaborate on start-up or core banking teams
+- 💞️ I’m looking for collaborating on start-up or core banking teams
 - 📫 You can reach me by WhatsUp number : +98 935 110 5464
 
 <!---
